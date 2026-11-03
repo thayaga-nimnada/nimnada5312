@@ -1,0 +1,6 @@
+@nimnada5312_HostAddress = http://localhost:5138
+
+GET {{nimnada5312_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
